@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Anie 🌱🤖
+# ¡Hola! 👋 Soy Marie 🌱🤖
 
 ✨ Estudiante **Agrícola**  
 🚜 Tecnología aplicada al campo | 🌍 Agricultura 4.0  
