@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Ana 🌱🤖
+# ¡Hola! 👋 Soy Anie 🌱🤖
 
 ✨ Estudiante de **Mecatrónica Agrícola**  
 🚜 Tecnología aplicada al campo | 🌍 Agricultura 4.0  
