@@ -1,16 +1,15 @@
 # ¡Hola! 👋 Soy Anie 🌱🤖
 
-✨ Estudiante de **Mecatrónica Agrícola**  
+✨ Estudiante **Agrícola**  
 🚜 Tecnología aplicada al campo | 🌍 Agricultura 4.0  
 🤖 Inteligencia Artificial, Visión por Computadora y automatización  
-💡 Tradición bien puesta + innovación con propósito
 
 ---
 
 ## 🧠 Sobre mí
 - 🌱 Desarrollo proyectos enfocados en **agricultura sostenible**
 - 📷 Trabajo con **visión por computadora** para detección y monitoreo
-- 📊 Convierto datos en **decisiones prácticas**
+- 📊 Datos en **decisiones prácticas**
 - 🚀 Mentalidad crítica, disciplina clásica y mirada al futuro
 
 > El campo no se abandona: se evoluciona.
